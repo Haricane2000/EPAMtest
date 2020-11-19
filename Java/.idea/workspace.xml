@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc241e74-0e93-4fae-afff-1b1470540e4f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Airport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/ClassificationLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/ExperimentalTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/MilitaryType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plane/ExperimentalPlane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plane/MilitaryPlane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plane/PassengerPlane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plane/Plane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AirportTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kVOcgILOJK9Emq0yZcFO1DQNRA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="TestNG.&lt;default&gt; (4)">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="aircompany" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt; (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="aircompany" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt; (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="aircompany" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt; (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="aircompany" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt; (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="aircompany" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.&lt;default&gt; (4)" />
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="TestNG.&lt;default&gt; (3)" />
+        <item itemvalue="TestNG.&lt;default&gt; (2)" />
+        <item itemvalue="TestNG.&lt;default&gt; (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc241e74-0e93-4fae-afff-1b1470540e4f" name="Default Changelist" comment="" />
+      <created>1605782376073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605782376073</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605802611015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605802611015" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1605800584057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605800584057" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1605800584057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605800584057" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1605800584057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605800584057" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1605800584057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605800584057" />
+  </component>
+</project>
